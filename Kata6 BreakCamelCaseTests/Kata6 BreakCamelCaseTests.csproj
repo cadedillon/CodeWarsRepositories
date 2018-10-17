@@ -63,7 +63,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\breakCamelCase\Kata6 BreakCamelCase.csproj">
+    <ProjectReference Include="..\Kata6 BreakCamelCase\Kata6 BreakCamelCase.csproj">
       <Project>{BD907A89-EA4A-4E56-8583-CC6F47122537}</Project>
       <Name>Kata6 BreakCamelCase</Name>
     </ProjectReference>

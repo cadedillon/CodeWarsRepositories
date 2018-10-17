@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Kata7 DivisorsofNumber")]
+[assembly: AssemblyTitle("Kata5 WriteNumbers")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Kata7 DivisorsofNumber")]
+[assembly: AssemblyProduct("Kata5 WriteNumbers")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("bc2c1590-e3a8-45ba-8103-ccd06e7cfb25")]
+[assembly: Guid("6db9324f-7bcf-4f1b-9af6-50b0eddcc5e0")]
 
 // Version information for an assembly consists of the following four values:
 //

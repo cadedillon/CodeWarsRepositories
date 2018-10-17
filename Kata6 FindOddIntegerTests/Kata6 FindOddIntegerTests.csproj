@@ -63,7 +63,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Kata6FindOddInteger\Kata6 FindOddInteger.csproj">
+    <ProjectReference Include="..\Kata6 FindOddInteger\Kata6 FindOddInteger.csproj">
       <Project>{1268A707-F682-4329-8427-C7A099E4509F}</Project>
       <Name>Kata6 FindOddInteger</Name>
     </ProjectReference>

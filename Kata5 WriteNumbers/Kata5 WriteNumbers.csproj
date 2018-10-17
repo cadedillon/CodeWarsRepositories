@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BC2C1590-E3A8-45BA-8103-CCD06E7CFB25}</ProjectGuid>
+    <ProjectGuid>{6DB9324F-7BCF-4F1B-9AF6-50B0EDDCC5E0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Kata7_DivisorsofNumber</RootNamespace>
-    <AssemblyName>Kata7 DivisorsofNumber</AssemblyName>
+    <RootNamespace>Kata5_WriteNumbers</RootNamespace>
+    <AssemblyName>Kata5 WriteNumbers</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="NumberTranslation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
