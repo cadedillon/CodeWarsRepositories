@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CodeWarsRepositories
 {
-    class Program
+    class Home
     {
         static void Main(string[] args)
         {

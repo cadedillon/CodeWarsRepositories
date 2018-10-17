@@ -5,21 +5,25 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWarsRepositories", "CodeWarsRepositories\CodeWarsRepositories.csproj", "{A054C984-6063-449F-AC8B-1B9A0D68FE68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata6 breakCamelCase", "breakCamelCase\Kata6 breakCamelCase.csproj", "{BD907A89-EA4A-4E56-8583-CC6F47122537}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata6 BreakCamelCase", "breakCamelCase\Kata6 BreakCamelCase.csproj", "{BD907A89-EA4A-4E56-8583-CC6F47122537}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata6 FindOddInteger", "Kata6FindOddInteger\Kata6 FindOddInteger.csproj", "{1268A707-F682-4329-8427-C7A099E4509F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata6 MorseCodeTranslator", "Kata6 MorseCodeTranslator\Kata6 MorseCodeTranslator.csproj", "{B46123B5-72CB-4E09-9725-8AFFEF385F72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata8 CountSum ArrayElements", "Kata8 CountSum ArrayElements\Kata8 CountSum ArrayElements.csproj", "{57671FAD-421C-4045-906E-2CC3BAFAA2DF}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata6 ConvertStringtoCamelCase", "Kata6 ConvertStringtoCamelCase\Kata6 ConvertStringtoCamelCase.csproj", "{4A9C029A-254A-4F43-9AE6-9904D9BCCC73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata7 DetectAnagram", "Kata7 DetectAnagram\Kata7 DetectAnagram.csproj", "{AF9BDA1C-70EA-4C5A-B318-D7FCB8466A47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata6 BreakCamelCaseTests", "Kata6 BreakCamelCaseTests1\Kata6 BreakCamelCaseTests.csproj", "{BADCDFEB-D567-4EF4-87E3-D72B607B5F37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata7 DivisorsofNumber", "Kata7 DivisorsofNumber\Kata7 DivisorsofNumber.csproj", "{BC2C1590-E3A8-45BA-8103-CCD06E7CFB25}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata6 ConvertStringtoCamelCaseTests", "Kata6 ConvertStringtoCamelCaseTests\Kata6 ConvertStringtoCamelCaseTests.csproj", "{B945C410-F34B-4B8C-ACA7-F2F2A072C1C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata8 SumWithoutMinMax", "Kata8 SumWithoutMinMax\Kata8 SumWithoutMinMax.csproj", "{7CA5C053-8DB9-487D-8985-F07F3C558930}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata6 FindOddIntegerTests", "Kata6 FindOddIntegerTests\Kata6 FindOddIntegerTests.csproj", "{BCD7EAB8-B58E-46DB-B729-39858D4AEE30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata6 MorseCodeTranslatorTests", "Kata6 MorseCodeTranslatorTests\Kata6 MorseCodeTranslatorTests.csproj", "{FA67BAE9-E4BB-4AA1-A3A6-156EA59D9CE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata5 ConvertImproperFractions", "Kata5 ConvertImproperFractions\Kata5 ConvertImproperFractions.csproj", "{7E89A151-C371-4F71-944A-BAD075658F51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata5 ConvertImproperFractionsTests", "Kata5 ConvertImproperFractionsTests\Kata5 ConvertImproperFractionsTests.csproj", "{66DCB505-2424-4A90-9E89-EF751AFD095E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,26 +47,34 @@ Global
 		{B46123B5-72CB-4E09-9725-8AFFEF385F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B46123B5-72CB-4E09-9725-8AFFEF385F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B46123B5-72CB-4E09-9725-8AFFEF385F72}.Release|Any CPU.Build.0 = Release|Any CPU
-		{57671FAD-421C-4045-906E-2CC3BAFAA2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{57671FAD-421C-4045-906E-2CC3BAFAA2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{57671FAD-421C-4045-906E-2CC3BAFAA2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{57671FAD-421C-4045-906E-2CC3BAFAA2DF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4A9C029A-254A-4F43-9AE6-9904D9BCCC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4A9C029A-254A-4F43-9AE6-9904D9BCCC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A9C029A-254A-4F43-9AE6-9904D9BCCC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A9C029A-254A-4F43-9AE6-9904D9BCCC73}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AF9BDA1C-70EA-4C5A-B318-D7FCB8466A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AF9BDA1C-70EA-4C5A-B318-D7FCB8466A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AF9BDA1C-70EA-4C5A-B318-D7FCB8466A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AF9BDA1C-70EA-4C5A-B318-D7FCB8466A47}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BC2C1590-E3A8-45BA-8103-CCD06E7CFB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BC2C1590-E3A8-45BA-8103-CCD06E7CFB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BC2C1590-E3A8-45BA-8103-CCD06E7CFB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BC2C1590-E3A8-45BA-8103-CCD06E7CFB25}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7CA5C053-8DB9-487D-8985-F07F3C558930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7CA5C053-8DB9-487D-8985-F07F3C558930}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7CA5C053-8DB9-487D-8985-F07F3C558930}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7CA5C053-8DB9-487D-8985-F07F3C558930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BADCDFEB-D567-4EF4-87E3-D72B607B5F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADCDFEB-D567-4EF4-87E3-D72B607B5F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADCDFEB-D567-4EF4-87E3-D72B607B5F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADCDFEB-D567-4EF4-87E3-D72B607B5F37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B945C410-F34B-4B8C-ACA7-F2F2A072C1C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B945C410-F34B-4B8C-ACA7-F2F2A072C1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B945C410-F34B-4B8C-ACA7-F2F2A072C1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B945C410-F34B-4B8C-ACA7-F2F2A072C1C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD7EAB8-B58E-46DB-B729-39858D4AEE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD7EAB8-B58E-46DB-B729-39858D4AEE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD7EAB8-B58E-46DB-B729-39858D4AEE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD7EAB8-B58E-46DB-B729-39858D4AEE30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA67BAE9-E4BB-4AA1-A3A6-156EA59D9CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA67BAE9-E4BB-4AA1-A3A6-156EA59D9CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA67BAE9-E4BB-4AA1-A3A6-156EA59D9CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA67BAE9-E4BB-4AA1-A3A6-156EA59D9CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E89A151-C371-4F71-944A-BAD075658F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E89A151-C371-4F71-944A-BAD075658F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E89A151-C371-4F71-944A-BAD075658F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E89A151-C371-4F71-944A-BAD075658F51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66DCB505-2424-4A90-9E89-EF751AFD095E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DCB505-2424-4A90-9E89-EF751AFD095E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DCB505-2424-4A90-9E89-EF751AFD095E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DCB505-2424-4A90-9E89-EF751AFD095E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

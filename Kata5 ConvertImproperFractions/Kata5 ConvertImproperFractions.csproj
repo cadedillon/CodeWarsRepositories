@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4A9C029A-254A-4F43-9AE6-9904D9BCCC73}</ProjectGuid>
+    <ProjectGuid>{7E89A151-C371-4F71-944A-BAD075658F51}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Kata6_ConvertStringtoCamelCase</RootNamespace>
-    <AssemblyName>Kata6 ConvertStringtoCamelCase</AssemblyName>
+    <RootNamespace>Kata5_ConvertImproperFractions</RootNamespace>
+    <AssemblyName>Kata5 ConvertImproperFractions</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConvertStringToCamelCase.cs" />
+    <Compile Include="ConvertImproperFractions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
