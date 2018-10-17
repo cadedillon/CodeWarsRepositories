@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata4 LargeFactorials", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata4 LargeFactorialsTests", "..\CodeWars\Kata4 LargeFactorials\Kata4 LargeFactorialsTests\Kata4 LargeFactorialsTests.csproj", "{7FE669FE-B2B4-4CA0-A495-452D8D37D87B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata5 GreedIsGood", "..\CodeWars\Kata5 GreedIsGood\Kata5 GreedIsGood\Kata5 GreedIsGood.csproj", "{95AE27BD-90FC-4BBC-9626-E0C2C2F34D60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata5 GreedIsGoodTests", "..\CodeWars\Kata5 GreedIsGood\Kata5 GreedIsGoodTests\Kata5 GreedIsGoodTests.csproj", "{572243D7-D53A-4D81-A6E1-02B45432D816}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{7FE669FE-B2B4-4CA0-A495-452D8D37D87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FE669FE-B2B4-4CA0-A495-452D8D37D87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FE669FE-B2B4-4CA0-A495-452D8D37D87B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95AE27BD-90FC-4BBC-9626-E0C2C2F34D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AE27BD-90FC-4BBC-9626-E0C2C2F34D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AE27BD-90FC-4BBC-9626-E0C2C2F34D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AE27BD-90FC-4BBC-9626-E0C2C2F34D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{572243D7-D53A-4D81-A6E1-02B45432D816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572243D7-D53A-4D81-A6E1-02B45432D816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572243D7-D53A-4D81-A6E1-02B45432D816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572243D7-D53A-4D81-A6E1-02B45432D816}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
